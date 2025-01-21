@@ -8,8 +8,8 @@ Insights into weak topics and difficulty levels.
 Personalized recommendations for improvement.
 Setup Instructions
 # step 1: Clone the Repository:
-git clone <repository_url>  
-cd <repository_directory>  
+git clone repository_url
+cd repository_directory  
 # step 2 : Install Dependencies:
 # step 3: Ensure you have Python 3.x installed. Install the required libraries using:
 pip install -r requirements.txt  
